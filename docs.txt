@@ -1,0 +1,4 @@
+http://stackoverflow.com/questions/170961/whats-the-best-crlf-handling-strategy-with-git
+http://stackoverflow.com/questions/2825428/why-should-i-use-core-autocrlf-true-in-git
+http://adaptivepatchwork.com/2012/03/01/mind-the-end-of-your-line/
+http://www.rtuin.nl/2013/02/how-to-make-git-ignore-different-line-endings/
